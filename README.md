@@ -7,7 +7,7 @@
 
 ### Backend Developer in training ⚙️ & Sports Data Analyst in progress ⚾  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Training;Sports+Data+Analyst+%7C+Moneyball+Mindset;Data-Driven+Baseball+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Training;Sports+Data+Analyst+%7C+Moneyball+Mindset;Sabermetrics+Analyst+in+progress" />
 </p>
 
 
