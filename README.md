@@ -1,7 +1,6 @@
-# 👋 Hi, I'm **Justman-yzz**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=00FFE5&center=true&vCenter=true&repeat=true&width=900&lines=Justman-yzz;%EC%97%AC%EC%A0%84%ED%95%A0%EC%A7%80%2C+%EC%97%AD%EC%A0%84%ED%95%A0%EC%A7%80;maintain+the+lead+or+make+a+comeback;yzz" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1500&color=00FFE5&background=0D0D0DFF&center=true&vCenter=true&repeat=true&width=950&lines=Justman-yzz;%EC%97%AC%EC%A0%84%ED%95%A0%EC%A7%80%2C+%EC%97%AD%EC%A0%84%ED%95%A0%EC%A7%80;maintain+the+lead+or+make+a+comeback;yzz" />
 </p>
 
 
