@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Tae-Joon Kim
+👋 Hi, I'm **Justman-yzz**
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=00FFE5&center=true&vCenter=true&width=750&lines=Justman-yzz;여전할지,+역전할지;Maintain+the+lead+or+Make+a+comeback;yzz" />
+</p>
+
 ### Backend Developer in training ⚙️ & Sports Data Analyst in progress ⚾  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Training;Sports+Data+Analyst+%7C+Moneyball+Mindset;Data-Driven+Baseball+Enthusiast" />
