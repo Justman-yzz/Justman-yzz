@@ -1,8 +1,9 @@
-👋 Hi, I'm **Justman-yzz**
+# 👋 Hi, I'm **Justman-yzz**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=00FFE5&center=true&vCenter=true&width=750&lines=Justman-yzz;여전할지,+역전할지;Maintain+the+lead+or+Make+a+comeback;yzz" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=00FFE5&center=true&vCenter=true&width=750&lines=Justman-yzz;여전할지,+역전할지;maintain+the+lead+or+make+a+comeback;yzz" />
 </p>
+
 
 ### Backend Developer in training ⚙️ & Sports Data Analyst in progress ⚾  
 <p align="center">
