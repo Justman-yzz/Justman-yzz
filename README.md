@@ -27,7 +27,7 @@ Somewhere along the way, I naturally found myself becoming a developer.
 
 ## 🧰 Tech Stack  
 **Backend**  
-`Java` `Python` `FastAPI`
+`Java` `Python` `FastAPI` `Django` 
 
 **Data / ML**  
 `Pandas` `Numpy` `Scikit-Learn`  
